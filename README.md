@@ -1,23 +1,14 @@
-hi# Hello, I'm Kean Serna! 👋 ![](https://komarev.com/ghpvc/?username=imkurosaki)
 
+# Full Stack Developer && Builder && Learner
+![](https://komarev.com/ghpvc/?username=imkurosaki)
+I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love basketball that's why i'm a huge fan of Lebron James🐐
 
-I'm a Full-Stack Developer. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love basketball that's why i'm a huge fan of Lebron James🐐
-
-## 🛠️ Technologies & Tools
-
-- Depends on the project
-- By the way "i use debian"
-- Neovim and vim
-
-## 🌱 Current Learning Goals
-
-- Doing more projects and contributing to open-source
-- Learning Rust
-- Solve more DSA
-
-## 📫 Get in touch
-
-- Email: keandelaserna22@gmail.com
+- 🎯 My full-stack skill is depend on the project
+- 🧠 I'm learning Web3 (specifically Solana) and Rust.
+- 🤝 I'm open to collaborating on with fellow developers and designers to build kick-ass products.
+- 😎 By the way "i use debian" with Neovim and vim.
+- 💡 Solve more DSA
+- ✉️  keandelaserna22@gmail.com
 
 ## 📈 GitHub Stats
 
