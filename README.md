@@ -17,7 +17,9 @@ I'm a Full-Stack Developer. I always aim for the best code quality and smooth co
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkurosaki)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkurosaki&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkurosaki&hide_progress=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imkurosaki%20&theme=rising-sun&date_format=%5BY%20%5DM%20j&card_width=500&border=EBB502)](https://git.io/streak-stats)
 
