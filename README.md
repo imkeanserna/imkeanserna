@@ -1,16 +1,26 @@
-## Hi there 👋
+hi# Hello, I'm Kean Serna! 👋 ![](https://komarev.com/ghpvc/?username=imkurosaki)
 
-<!--
-**imkurosaki/imkurosaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- Depends on the project
+- By the way "i use debian"
+- Neovim and vim
+
+## 🌱 Current Learning Goals
+
+- Doing more projects and contributing to open-source
+- Learning Rust
+- Solve more DSA
+
+## 📈 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkurosaki)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imkurosaki%20&theme=rising-sun&date_format=%5BY%20%5DM%20j&card_width=500&border=EBB502)](https://git.io/streak-stats)
+
+## 📫 Get in touch
+
+- Email: keandelaserna22@gmail.com
