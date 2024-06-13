@@ -2,8 +2,8 @@
 
 # Full Stack Developer ⚔️ Builder ⚔️ Learner
 
-<div style="width: 100%; text-align: center;">
-    <img src="https://github.com/imkurosaki/neovim-setup-typecraft/blob/master/lua/yuta-enters-classroom.gif?raw=true" alt="Yuta GIF" style="width:100%;"/>
+<div style="text-align: center;">
+    <img src="https://github.com/imkurosaki/neovim-setup-typecraft/blob/master/lua/yuta-enters-classroom.gif?raw=true" alt="Yuta GIF" />
 </div>
 
 "I always say to myself, 'I want to become the best 🔥, just like Yuta Okkotsu.'"
