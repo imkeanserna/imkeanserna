@@ -1,18 +1,30 @@
-
-# Full Stack Developer && Builder && Learner
 ![](https://komarev.com/ghpvc/?username=imkurosaki)
-I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love basketball that's why i'm a huge fan of Lebron James🐐
 
-- 🎯 My full-stack skill is depend on the project
-- 🧠 I'm learning Web3 (specifically Solana) and Rust.
-- 🤝 I'm open to collaborating on with fellow developers and designers to build kick-ass products.
-- 😎 By the way "i use debian" with Neovim and vim.
-- 💡 Solve more DSA
-- ✉️  keandelaserna22@gmail.com
+# Full Stack Developer ⚔️ Builder ⚔️ Learner
+
+![Yuta GIF](https://tenor.com/bYN6i.gif)
+
+"I always say to myself, 'I want to become the best 🔥, just like Yuta Okkotsu.'"
+
+---
+
+I aim for nothing less than excellence in code quality and seamless functionality. The relentless pursuit of new technologies drives my projects, and I'm constantly learning to stay ahead. Off the keyboard, I'm on the court, channeling the greatness of LeBron James 🐐.
+
+- 🎯 Adaptable full-stack skills tailored to each project.
+- 🧠 Diving deep into Web3 (specifically Solana) and mastering Rust.
+- 🤝 Eager to collaborate with fellow devs and designers to create cutting-edge products.
+- 😎 "I use Debian btw," with Neovim and Vim.
+- 💡 Dedicated to solving more DSA challenges.
+- ✉️  Reach me at keandelaserna22@gmail.com
+
+Let's build the future together, one line of code at a time.
 
 ## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkurosaki&show_icons=true&theme=transparent)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imkurosaki%20&theme=rising-sun&date_format=%5BY%20%5DM%20j&card_width=500&border=EBB502)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=imkurosaki&show_icons=true&theme=transparent" height="150px" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=imkurosaki&theme=rising-sun&date_format=%5BY%20%5DM%20j&card_width=500&border=EBB502" height="150px" />
+    </a>
+</div>
 
