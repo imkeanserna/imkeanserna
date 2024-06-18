@@ -6,7 +6,7 @@
     <img src="https://github.com/imkurosaki/neovim-setup-typecraft/blob/master/lua/yuta-enters-classroom.gif?raw=true" alt="Yuta GIF" />
 </div>
 
-"I always say to myself, 'I want to become the best 🔥, just like Yuta Okkotsu.'"
+"I always say to myself, 'I want to become the best in a room🔥, just like Yuta Okkotsu.'"
 
 ---
 
