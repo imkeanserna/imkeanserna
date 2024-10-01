@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=imkurosaki)
 
-I aim for nothing less than excellence in code quality and seamless functionality. The relentless pursuit of new technologies drives my projects, and I'm constantly learning to stay ahead. Off the keyboard, I'm on the court, playing basketball.
+I aim for nothing less than excellence in code quality and seamless functionality. The relentless pursuit of new technologies drives my projects, and I'm constantly learning to stay ahead. Off the keyboard, I'm on the court playing basketball.
 
 - 🎯 Adaptable full-stack skills tailored to each project.
 - 🤝 Eager to collaborate with fellow devs and designers to create cutting-edge products.
