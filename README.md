@@ -11,12 +11,14 @@ I'm Ken, a Full Stack Software Developer and a Linux lover
 
 ### Social Media
 Let's build the future together, one line of code at a time.
+
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill:#1DA1F2;" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill:#0077B5;" />][linkedin]
 [<img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" style="fill:#F89F1B;" />][leetcode]
 
+</br>
 
-### &#x1f4c8; GitHub Stats
+### GitHub Stats
 <div style="display: flex; gap: 20px; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=imkurosaki&show_icons=true&theme=transparent" height="150px" />
     <a href="https://git.io/streak-stats">
