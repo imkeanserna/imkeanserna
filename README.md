@@ -5,7 +5,7 @@
 I'm Ken, a Full Stack Developer and a Linux lover
 </br>
 
-[Twitter](https://x.com/kurosaki22_ken) | 
+[Twitter](https://x.com/imkurosaki) | 
 [LinkedIn](https://www.linkedin.com/in/kean-de-la-serna-b7a182260) | 
 [Leetcode](https://leetcode.com/u/imKeanSerna/)
 - 🌱 I’m currently learning: Web3, Kubernetes, and Mandarin(ni hao!)
