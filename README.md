@@ -7,7 +7,8 @@ I'm Ken, a Full Stack Developer and a Linux lover
 
 [Twitter](https://x.com/imkurosaki) | 
 [LinkedIn](https://www.linkedin.com/in/kean-de-la-serna-b7a182260) | 
-[Leetcode](https://leetcode.com/u/imKeanSerna/)
+[Leetcode](https://leetcode.com/u/imKeanSerna/) | 
+[Hacktoberfest](https://www.holopin.io/@imkurosaki#)
 - 🌱 I’m currently learning: Web3, Kubernetes, and Mandarin(ni hao!)
 - 💻 OS: Debian
 - 😎 Workspace: I used Neovim btw
