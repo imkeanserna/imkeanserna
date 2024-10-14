@@ -5,10 +5,10 @@
 I'm Ken, a Full Stack Developer and a Linux lover
 </br>
 
-<a href="https://x.com/imkurosaki" target="_blank">Twitter</a> | 
-<a href="https://www.linkedin.com/in/kean-de-la-serna-b7a182260" target="_blank">LinkedIn</a> | 
-<a href="https://leetcode.com/u/imKeanSerna/" target="_blank">Leetcode</a> | 
-<a href="https://www.holopin.io/@imkurosaki#" target="_blank">Hacktoberfest</a>
+[Twitter](https://x.com/imkurosaki) | 
+[LinkedIn](https://www.linkedin.com/in/kean-de-la-serna-b7a182260) | 
+[Leetcode](https://leetcode.com/u/imKeanSerna/) | 
+[Hacktoberfest](https://www.holopin.io/@imkurosaki#)
 
 - 🌱 I’m currently learning: Web3, Kubernetes, and Mandarin(ni hao!)
 - 💻 OS: Debian
