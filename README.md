@@ -5,7 +5,7 @@
 I'm Ken, a Full Stack Developer and a Linux lover
 </br>
 
-[Twitter](https://x.com/imkurosaki) | 
+[Twitter](https://x.com/imkeanserna) | 
 [LinkedIn](https://www.linkedin.com/in/kean-de-la-serna-b7a182260) | 
 [Leetcode](https://leetcode.com/u/imKeanSerna/) | 
 [Hacktoberfest](https://www.holopin.io/@imkurosaki#)
