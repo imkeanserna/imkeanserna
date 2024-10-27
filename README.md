@@ -10,7 +10,7 @@ I'm Ken, a Full Stack Developer and a Linux lover
 [Leetcode](https://leetcode.com/u/imKeanSerna/) | 
 [Hacktoberfest](https://www.holopin.io/@imkurosaki#)
 
-- 🌱 I’m currently learning: Mastering my niche with discipline "dev"
+- 🌱 I’m currently learning: mastering niche with discipline
 - 💻 OS: Debian
 - 😎 Workspace: I used Neovim btw
 - ⚡ Fun fact: I love business and basketball
