@@ -3,8 +3,7 @@
 <!-- Banner -->
 <p align="center">  
   <img alt="Kean Serna Network blocking the view? Network switch reveals the magic!"  src="./assets/kean-serna-banner.png">
-  <br><br>
-<p/>
+</p>
 
 ### Hi there 👋
 
