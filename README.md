@@ -1,12 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=imkurosaki)
 
+<!-- Banner -->
+<p align="center">  
+  <img alt="Kean Serna Network blocking the view? Network switch reveals the magic!"  src="./assets/kean-serna-banner.png">
+  <br><br>
+<p/>
+
 ### Hi there 👋
 
 I'm Ken, a Full Stack Developer and a Linux lover
 </br>
 
 [Twitter](https://x.com/imkeanserna) | 
-[LinkedIn](https://www.linkedin.com/in/kean-de-la-serna-b7a182260) | 
+[LinkedIn](https://www.linkedin.com/in/kean-serna/) | 
 [Leetcode](https://leetcode.com/u/imKeanSerna/) | 
 [Hacktoberfest](https://www.holopin.io/@imkurosaki#)
 
